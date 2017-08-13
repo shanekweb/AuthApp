@@ -1,24 +1,15 @@
-# README
+# Auth App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Objectives
+1. Build a *custom* authentication app:
+	* user model
+	* sign-up and sign-in forms
+	* login
+	+ remember me
+	+ show, edit, update and delete users
+	- account activation by email
+	- password reset by email
 
-Things you may want to cover:
+2. Implement the framework **Foundation 6**
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3. Implement **Rspec**
